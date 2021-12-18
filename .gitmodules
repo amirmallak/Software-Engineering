@@ -1,0 +1,3 @@
+[submodule "Translation-Data-Processing-for-Generalization-Models"]
+	path = Translation-Data-Processing-for-Generalization-Models
+	url = git@github.com:amirmallak/Translation-Data-Processing-for-Generalization-Models.git
