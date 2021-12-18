@@ -1,2 +1,2 @@
 # Software-Engineering
-Software Engineering Projects
+This directory includes all Software Engineering Projects
